@@ -1,0 +1,23 @@
+{
+  "name": "prohibited",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blaxinoss/Forbidden.git"
+  },
+  "author": "Abdullah Ismael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blaxinoss/Forbidden/issues"
+  },
+  "homepage": "https://github.com/Blaxinoss/Forbidden#readme",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^26.1.1"
+  }
+}
